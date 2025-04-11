@@ -1,0 +1,26 @@
+AI Tools Used: ChatGPT (OpenAI), GitHub Copilot
+
+How I Used Them:
+
+1. ChatGPT:
+- Helped with planning full-stack structure (frontend + backend)
+- Debugged deployment issues on Vercel and Render
+- Suggested DSA problem solution for job sorting
+- Guided me step-by-step on folder structure, form handling, and code organization
+
+2. GitHub Copilot:
+- Assisted with writing repetitive JSX and API logic
+- Suggested cleaner useEffect and axios patterns
+
+How it Helped:
+- Saved time during debugging
+- Made backend setup faster (especially with Express/MongoDB)
+- Helped me follow best practices
+ Manual Changes I Made:
+- Fixed import paths after file renaming
+- Replaced `process.env` with `import.meta.env` for Vite compatibility
+- Adjusted deployment configs for Render/Vercel
+- Tweaked styles and layout from AI suggestions
+
+Summary:
+AI tools made the process faster, especially for debugging and learning new parts of the stack.
